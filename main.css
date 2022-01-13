@@ -1,0 +1,65 @@
+body{
+    background: black;
+}
+    .post{
+        background-color: white;
+        width: 700px;
+        margin: auto;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .header{
+        background-color: transparent;
+        display: flex;
+        padding: 10px;
+        margin: auto;
+    }
+        .logo{
+            background-color: transparent;
+            margin: auto;
+            width: 20px;
+            padding: 5px;
+        }
+        .title{
+            background-color: transparent;
+            width: 650px;
+            padding: 10px;
+        }
+            h5{
+                margin:auto;
+                font-weight: bolder;
+            }
+            p{
+                margin:auto;
+                font-size: 12px;
+            }
+        .points{
+            background-color: transparent;
+            margin:auto;
+        }
+    .insta_picture{
+        background-color: transparent;
+                width:100%;
+            }
+            img{
+                width:100%;
+                height: auto;
+            }
+    .symbols{
+        background-color:transparent;
+        padding: 10px;
+    }
+            .bookmark_icon{
+                float:right;
+                padding-right: 10px;
+            }
+    .likes{
+        background-color: transparent;
+        padding: 15px;
+        padding-bottom: 10px;
+    }
+    .text{
+        background-color: transparent;
+        padding: 15px;
+        padding-top: 5px;
+        text-align: justify; 
+    }
